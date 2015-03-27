@@ -1,0 +1,49 @@
+ul {
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	overflow: hidden;
+
+}
+
+li {
+	float: right;
+	display: inline;
+}
+
+a {
+	display: block;
+	width: 60px;
+
+}
+
+.google
+{
+	margin-left:550px;
+	margin-top: 180px;
+	float:left;
+}
+
+.google1
+{
+	margin-left:415px;
+	margin-top:15px;
+	width:560px;
+	height:25px;
+	border-width:1px;
+	border-color: #6495ED;
+}
+.button1
+{
+	margin-left:580px;
+	margin-top:30px;
+	height:30px;
+}
+.button2
+{
+
+	margin-left:5px;
+
+	height:30px;
+}
+
